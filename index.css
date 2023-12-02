@@ -2048,9 +2048,7 @@ margin-top: 20%;
 }
 
 @media only screen and (max-width: 460px){
-    body{
-        background-color: skyblue;
-    }
+   
     .header-text h1{
         font-size: 2.3rem;
     }
@@ -2094,10 +2092,7 @@ margin-top: 20%;
 .pages-header-text{
     font-size: 1.5rem;
 }
-.about-text-container{
-    /* height: 50vh; */
-    border: solid 1px green;
-}
+
 .img-con{
     width: 100%;
     height: 80%;
@@ -2113,7 +2108,7 @@ margin-top: 20%;
 }
 .about-section1-img-container{
     height: 70vh;
-    border: solid 1px ;
+    
     
 }
 .tools-container {
@@ -2158,10 +2153,7 @@ section p{
 }
 
 @media only screen and (max-width: 386px){
-    body{
-        background-color: teal;
-    }
-
+ 
     .header{
         height: 100vh;
     }
